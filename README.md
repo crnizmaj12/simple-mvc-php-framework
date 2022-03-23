@@ -12,9 +12,9 @@ PHP 7.1.20 Apache
 
 ## Installation
 ```
-git clone https://github.com/crnizmaj12/simple-mvc-php-framework.git
+git clone https://github.com/crnizmaj12/simple-mvc-php-framework-master.git
 ```
-Or download the package from [Github](https://github.com/crnizmaj12/simple-mvc-php-framework).
+Or download the package from [Github](https://github.com/crnizmaj12/simple-mvc-php-framework-master).
 
 Then:
 1. Set up and run your webserver (e.g. Apache);
