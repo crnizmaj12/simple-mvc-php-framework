@@ -8,7 +8,7 @@ define('URL_ROOT', '/');
 define('URL_SUBFOLDER', '');
 
 //DB Params
-define('DB_HOST', 'your-host');
-define('DB_USER', 'your-username');
-define('DB_PASS', 'your-password');
-define('DB_NAME', 'your-db-name');
+define('DB_HOST', 'sql11.freesqldatabase.com');
+define('DB_USER', 'sql11483084');
+define('DB_PASS', 'sql11483084');
+define('DB_NAME', 'sql11483084');

@@ -1,0 +1,10 @@
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\bin\Debug\mysql.dacpac
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\bin\Debug\mysql.dll
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\bin\Debug\mysql.pdb
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\mysql.sqlprojAssemblyReference.cache
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\Model.xml
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\refactor.xml
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\postdeploy.sql
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\predeploy.sql
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\mysql.dll
+d:\Users\Crni\Desktop\simple-mvc-php-framework-master\app\Models\mysql\obj\Debug\mysql.pdb

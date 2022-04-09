@@ -12,9 +12,9 @@ PHP 7.1.20 Apache
 
 ## Installation
 ```
-git clone https://github.com/crnizmaj12/simple-mvc-php-framework-master.git
+git clone https://github.com/crnizmaj12/simple-mvc-php-framework.git
 ```
-Or download the package from [Github](https://github.com/crnizmaj12/simple-mvc-php-framework-master).
+Or download the package from [Github](https://github.com/crnizmaj12/simple-mvc-php-framework).
 
 Then:
 1. Set up and run your webserver (e.g. Apache);
@@ -22,6 +22,3 @@ Then:
 3. Go to the index page (often localhost).
 
 **Note**: if you decided to put the framework into a subfolder, open */config/config.php* and set up the name of the subfolder here *URL_SUBFOLDER*
-
-## # Simple MVC PHP Framework on my blog
-https://www.giuseppemaccario.com/how-to-build-a-simple-php-mvc-framework/
